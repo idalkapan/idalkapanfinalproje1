@@ -1,0 +1,2 @@
+12,Ali,Aytekin,9
+11,idal,kapan,3
