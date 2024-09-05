@@ -1,1 +1,1 @@
-# idalkapanfinalproje1
+# idalkapanpythonproje1
